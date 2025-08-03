@@ -1,4 +1,4 @@
-### ✅ **Detailed Code Explanation**
+###  **Detailed Code Explanation**
 
 #### **1. Importing Libraries**
 
