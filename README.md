@@ -91,5 +91,3 @@ This project showcases:
 
 **Gowtham GS Patil**
 📧 [LinkedIn](https://www.linkedin.com/in/gowthamgshivamuthy) | 🌐 [GitHub](https://github.com/gowthamgspatil)
-
-Would you like me to generate this as a proper `README.md` file for you to upload directly to the repo?
