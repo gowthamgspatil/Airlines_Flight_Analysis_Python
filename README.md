@@ -81,11 +81,6 @@ This project showcases:
 * Data visualization for airline business intelligence
 * Deriving insights for improving flight pricing and scheduling
 
-##  Future Enhancements
-
-* Integrate machine learning to **predict flight prices**
-* Use **interactive dashboards** with Plotly or Power BI
-* Add **time-series analysis** for price trends
 
 ## Author
 
